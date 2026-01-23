@@ -1,4 +1,14 @@
 ## Hi there 👋
+I'm Dan, currently studying at a university  
+What i'm learning right now:
+  - Machine Learning (Linear regression, logistic regression)
+  - Deep Learning (Neural Network)
+  - Fundamental Math skills
+ Learning by doing projects  ↗️ I'm looking for❤️🥰 :
+  - Since i have a soft spot for AI, it's my biggest proud to colloborate with predecessors
+
+
+
 
 <!--
 **tivagu/tivagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
